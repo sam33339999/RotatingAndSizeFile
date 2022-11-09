@@ -1,0 +1,9 @@
+{
+    "name": "demo/monolog-max-size",
+    "autoload": {
+        "psr-4": {
+            "Demo\\MonologMaxSize\\": "src/"
+        }
+    },
+    "require": {}
+}
